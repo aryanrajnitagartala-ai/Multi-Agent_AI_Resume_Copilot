@@ -1,6 +1,6 @@
 # Job Matcher
 
-**Live App:** https://davenjeru--job-search-service-web-ui.modal.run
+**Live App:**https://aryanrajnitagartala-ai--job-search-service-web-ui.modal.run/
 
 An AI-powered job search assistant that matches your resume to relevant job listings using semantic search and generates tailored cover letters.
 
