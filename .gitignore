@@ -1,0 +1,4 @@
+job_vectorstore
+__pycache__/
+*.pyc
+.env
