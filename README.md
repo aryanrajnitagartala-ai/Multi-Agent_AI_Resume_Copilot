@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Job Matcher
+# Multi-Agent_AI_Resume_Copilot
 
 **An AI-powered job search assistant that parses your resume, matches it to relevant job listings using semantic search, generates tailored cover letters, and notifies you of top matches — through a multi-agent pipeline you can watch work in real time.**
 
